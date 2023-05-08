@@ -6,7 +6,7 @@
 //     let myArr =  [1,3,4,4];
 //       function findDuplicate(myArr){
 //         for(let i=0;i<myArr.length-1;i++){
-//             if (myArr[i]==myArr[i+1]){
+//             if (myArr[i]===myArr[i+1]){
 //               return myArr[i]; 
 //             } 
 //         }
